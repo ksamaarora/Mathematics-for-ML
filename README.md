@@ -22,3 +22,7 @@ Topics covered in this include:
 - 3D transformations
 - Determinant & Matrices
 - Eigen Vectors and Eigen Values
+
+> ## Probability Theory - 6.041SC | Fall 2013 - MIT
+
+- Unit 1: Probability Models and Discrete Random Variables
